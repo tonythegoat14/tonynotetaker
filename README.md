@@ -1,1 +1,1 @@
-# tonynotetaker
+this is an note taker , where you can take note store them and also delete the notes taken
